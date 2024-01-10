@@ -1,2 +1,2 @@
 # hyperblog
-amazing blog for platzi's git and github course
+amazing blog for platzi git and github course
