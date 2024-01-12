@@ -32,9 +32,17 @@ body {
   margin: 0 auto;
 }
 #container h1 {
-  font-size: 20px;
+  font-size: 20px;Excepto
 }
 #post {
   background: white;
   padding: 1em;
+}
+
+#footer
+{
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
 }
